@@ -34,13 +34,15 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<div>
+<img src='https://github.com/bashar67/age-calculator-app-/blob/main/assets/images/page.png' height='150' width='450' />
+  <img src='https://github.com/bashar67/age-calculator-app-/blob/main/assets/images/handle_error.png' height='150' width='450' />
+</div>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/bashar67/age-calculator-app-)
+- Live Site URL: [Add live site URL here](https://bashar-age-calculator-app.netlify.app/)
 
 ## My process
 
